@@ -19,6 +19,6 @@ Basic logistics app with zoo example:
     $ npm start
     ```
 - Enter URL in address bar
-- http//:localhost:3001/
+http://localhost:3001/
 
 **I hope you enjoy it.**
