@@ -1,7 +1,5 @@
 # zookeepr
 
-##  https://yhawamdeh.github.io/zookeepr/
-
 # Flask-Admin Dashboard Example
 
 Basic logistics app with zoo example:
